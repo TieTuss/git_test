@@ -1,0 +1,17 @@
+[33mcommit 084e715d15ab7d24cccc3b4101355a5194a69ba8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thoy <110950157+TieTuss@users.noreply.github.com>
+Date:   Sat Apr 27 17:58:47 2024 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit ecd6870cb70fe0bd3ce36d85b380a11307196ca9[m
+Author: Thoy <110950157+TieTuss@users.noreply.github.com>
+Date:   Sat Apr 27 17:53:45 2024 -0400
+
+    add helloe_world.txt
+
+[33mcommit 9b83f4d4203317ee12e1b0e69fd504a3a49b76db[m
+Author: TieTuss <110950157+TieTuss@users.noreply.github.com>
+Date:   Sat Apr 27 17:45:08 2024 -0400
+
+    Initial commit
